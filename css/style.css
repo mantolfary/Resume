@@ -191,7 +191,4 @@ p {
         margin: o;
         size: A5;
     }
-    *{
-        -webkit-print-color-adjust: exact;
-    }
 }
